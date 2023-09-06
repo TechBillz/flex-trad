@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.text-primary{
+    color: #130f4b !important;
+}
+li{
+    text-decoration: none;
+}
